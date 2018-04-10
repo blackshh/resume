@@ -1,6 +1,6 @@
 # blackshh's resume
 
-This is blackshh's resume, based on this template.
+This is my resume, based on [this template](https://github.com/billryan/resume).
 
 # Download
 + [中文版 (pdf)](./resume-cn.pdf)
